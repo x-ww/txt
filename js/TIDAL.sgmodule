@@ -1,0 +1,8 @@
+#!name=TIDAL
+#!desc=
+
+[MITM]
+hostname = %APPEND% api.tidal.com
+[Script]
+# TIDAL
+TidalPlus = type=http-request,pattern=^https?:\/\/api\.tidal\.com\/v1\/(pages\/album|(user|track|page)s\/(\d+)\/(state|subscription|lyrics|onboarding|playbackinfopostpaywall)),requires-body=0,script-path=https://raw.githubusercontent.com/yqc007/QuantumultX/master/TIDALHiFiPlusCrack.js,script-update-interval=0
