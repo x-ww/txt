@@ -1,5 +1,5 @@
 #!name=TIDAL
-#!desc=
+#!desc=TIDAL PULS
 
 [MITM]
 hostname = %APPEND% api.tidal.com
