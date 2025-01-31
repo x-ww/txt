@@ -2,3 +2,5 @@ DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,downloadtorrentfile.com
 DOMAIN-SUFFIX,olares.xyz
+DOMAIN-SUFFIX,mdiaload.com
+DOMAIN-SUFFIX,gofrp.org
