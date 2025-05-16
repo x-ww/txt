@@ -1,4 +1,3 @@
-DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,downloadtorrentfile.com
 DOMAIN-SUFFIX,olares.xyz
